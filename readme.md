@@ -1,6 +1,8 @@
-## :rocket: Tecnologias 
+## :attention: Descrição do porjeto. 
 
 Esse projeto foi criado para estudos de pool de conexões com o postgres e controle de concorrência
+
+## :rocket: Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
