@@ -1,4 +1,4 @@
-## :attention: Descrição do porjeto. 
+## Descrição do porjeto. 
 
 Esse projeto foi criado para estudos de pool de conexões com o postgres e controle de concorrência
 
