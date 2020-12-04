@@ -1,9 +1,10 @@
 ## :rocket: Tecnologias 
 
+Esse projeto foi criado para estudos de pool de conexões com o postgres e controle de concorrência
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -  [Node.js](https://nodejs.org)
--  [TypeScript](https://www.typescriptlang.org)
 -  [Express](https://expressjs.com/pt-br/)
 -  [Cors](https://www.npmjs.com/package/cors)
 -  [helmet](https://www.npmjs.com/package/helmet)
@@ -18,17 +19,6 @@ Esse projetinho basicamente é para realizar envios de e-mail.
 Para isso é necessário utilizar algum programa para realizar as requisições como: [Insomnia](insomnia.rest) ou [Postman](https://www.postman.com).
 
 A requisição é feita pela url: `localhost:3000/v1/<nome do endpoint>`
-Possuindo as seguintes variáveis no corpo de requisição: 
-
-- `host`: SMTP que será utilizado para o envio
-- `port`: Porta do SMTP que será utilizado
-- `user`: email que será utilizado para o envio
-- `pass`: senha do email que será utilizado
-- `to`: Email para receber
-- `replyTo`: Email para receber a resposta
-- `subject`: Assunto do email
-- `text`: Texto do assunto
-- `html`: Template de email (Arquivo .html)
 
 Usar as seguintes linhas de comando:
 
