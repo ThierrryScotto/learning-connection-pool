@@ -1,6 +1,8 @@
-## :rocket: Tecnologias 
+## Descrição do porjeto. 
 
 Esse projeto foi criado para estudos de pool de conexões com o postgre.
+
+## :rocket: Tecnologias 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
