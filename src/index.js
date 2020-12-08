@@ -12,6 +12,10 @@ const courses    = require('./routes/_courses');
 // constant
 const basePath = '/v1';
 
+router.express.get('/', (req, res) => {
+  res.status(200).send('-- FUNCIONOU MESMO SEM BANCO --');
+})
+
 router.express.use(`${basePath}`, students);
 router.express.use(`${basePath}`, enrolls);
 router.express.use(`${basePath}`, professors);
